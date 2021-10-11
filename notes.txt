@@ -1,0 +1,23 @@
+Basic Syntax and structure of a C Program
+Preprocessor directive or command
+main function
+{
+	statements(code)
+}
+
+Ex: Hello World Program in C
+
+#include<stdio.h>
+void main()
+{
+	printf("Hello, World!");
+}
+
+std - Standard
+i - input
+o - output
+h - header
+
+{} --> Curly or flower braces
+<> --> Angle veaces
+() --> 
