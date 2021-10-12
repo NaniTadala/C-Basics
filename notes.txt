@@ -19,5 +19,5 @@ o - output
 h - header
 
 {} --> Curly or flower braces
-<> --> Angle veaces
-() --> 
+<> --> Angle braces
+() --> Angle brackets
