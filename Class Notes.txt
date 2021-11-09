@@ -107,3 +107,17 @@ void main()
 }
 -------------------------------------------------------------------------
 
+9/11/21
+Introduction to scanf statement
+Reading the values from user
+scanf() statement
+syntax:
+scanf ("format specifier", &variable)
+& - amp
+
+Introduction to ASCII Table
+American
+Standard
+Code for
+Information
+Interchange
