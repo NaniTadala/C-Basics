@@ -121,3 +121,9 @@ Standard
 Code for
 Information
 Interchange
+
+
+3/5/2022
+control statements
+entry control loops are while and for
+exit control loops are do-while
